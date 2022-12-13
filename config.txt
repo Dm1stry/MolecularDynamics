@@ -1,0 +1,9 @@
+particles_amount: 1000
+cell_sizes: 10.0 10.0 10.0
+cell_bounds: 1 1 1
+T: 293
+m: 1e-26
+timestep: 0.1
+runtime: 1000
+ansamble: npt
+start_conf: random 
